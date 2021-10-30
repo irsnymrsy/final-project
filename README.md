@@ -1,2 +1,2 @@
-# java-example-simple-shopping
- simple shopping using java
+# java-puzzle-game
+ puzzle game
